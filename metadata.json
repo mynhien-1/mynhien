@@ -1,0 +1,6 @@
+{
+  "name": "TÀI NGUYÊN KHỐI HAI - Kho Liên Kết Thông Minh",
+  "description": "Ứng dụng lưu trữ, quản lý và chia sẻ liên kết tài nguyên dạy học dành cho giáo viên tiểu học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
